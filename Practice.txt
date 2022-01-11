@@ -1,1 +1,2 @@
 Step1- PracticeSQ
+Step 2- changes should seen (after making changes and save it) on the server 
